@@ -9,7 +9,7 @@ const user1 = {
   Country: "Colombia"
 };
 
-const App = <h1>Tengo {user1.age}</h1>;
+const App = <h1>Tengo {user1.age} años</h1>;
 
 const root = document.getElementById("root");
 
